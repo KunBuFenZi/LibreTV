@@ -38,10 +38,10 @@ const API_SITES = {
         api: 'https://tyyszy.com',
         name: '天涯资源',
     },
-    xiaomaomi: {
-        api: 'https://zy.xiaomaomi.cc',
-        name: '小猫咪资源',
-    },
+    // xiaomaomi: {
+    //     api: 'https://zy.xiaomaomi.cc',
+    //     name: '小猫咪资源',
+    // },
     ffzy: {
         api: 'http://ffzy5.tv',
         name: '非凡影视',
@@ -72,11 +72,6 @@ const API_SITES = {
     dbzy: {
         api: 'https://dbzy.com',
         name: '豆瓣资源',
-    },
-    huya: {
-        api: 'https://www.huyaapi.com',
-        name: '虎牙资源',
-        detail: 'https://www.huyaapi.com',
     },
     mozhua: {
         api: 'https://mozhuazy.com',
